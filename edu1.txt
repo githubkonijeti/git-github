@@ -3,3 +3,4 @@ And here we have added new feature.
 Hello Git welcome back again.
 Wait for your turn.
 comparing
+staged??????
